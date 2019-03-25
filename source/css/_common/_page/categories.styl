@@ -1,0 +1,42 @@
+.category-all-page {
+  .category-all-title { text-align: left; margin-left:5% }
+
+  .category-all { margin-top: 10px; }
+
+  .category-list {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  .category-list-item {
+    display: inline-block;
+    margin-left: 8%;
+    margin-top:4px;
+    margin-right:43%;
+
+	a {
+		color: $black-light;
+		text-decoration: none;
+		border-bottom: 1px solid $black-light;
+		
+		&:hover {
+		  color: $gray-link;
+		  border-bottom-color: $gray-link;
+		}
+  	}
+  }
+
+  .category-list-count {
+    color: $grey;
+    padding-left: 5px;
+    &:before {
+      display: inline;
+      content: " ("
+    }
+    &:after {
+      display: inline;
+      content: ") "
+    }
+  }
+}
