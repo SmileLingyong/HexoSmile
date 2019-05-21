@@ -1,6 +1,6 @@
-## FreeSky Hexo 主题
+## HexoSmile 主题
 
-本主题源自Hexo Next主题，经过笔者长期以来的修改，源代码中很多地方都有所变动，因此决定将其重新命名为FreeSky，目前版本为[FreeSky v0.4.0](https://github.com/csuldw/FreeSky/releases/tag/v0.4.0)。对于本主题，后续会不断在此主题上增加新的样式和功能，敬请关注。
+本主题源自Hexo Next主题，经过 [csuldw](http://www.csuldw.com) 博主长期以来的修改，源代码中很多地方都有所变动，自己很是喜欢博主的主题，十分感谢博主的分享，以后自己也会学习一些前端知识，不断完善主题。
 
 ### 技术栈
 
@@ -14,7 +14,7 @@
 
 ### 效果展示
 
-链接：http://www.csuldw.com
+链接：https://smilelingyong.github.io/
 
 #### 主页截图
 
